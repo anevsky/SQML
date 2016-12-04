@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/open.png</file>
+        <file>images/new.png</file>
+        <file>images/paste.png</file>
+        <file>images/save.png</file>
+        <file>images/Arrow3Right.png</file>
+        <file>images/ArrowDownRight.png</file>
+        <file>images/Burn.png</file>
+        <file>images/CharNumber.png</file>
+        <file>images/DirectionDiag1.png</file>
+        <file>images/DirectionHorz.png</file>
+        <file>images/Download.png</file>
+        <file alias="images/icon.png">images/Globe.png</file>
+        <file>images/Info2.png</file>
+        <file>images/Nuke.png</file>
+        <file>images/Star.png</file>
+        <file>images/StarEmpty.png</file>
+        <file>images/Target.png</file>
+        <file>images/TextIncrease.png</file>
+        <file>images/Wizard.png</file>
+    </qresource>
+</RCC>

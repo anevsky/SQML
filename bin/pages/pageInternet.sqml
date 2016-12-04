@@ -1,0 +1,14 @@
+<sqml>
+<head>
+<title>Internet</title>
+<meta annotation>Internet, its price in the world, and speed. Comparative analysis. Images in the form of diagrams.</meta annotation>
+<meta key>Internet, price of the internet, comparative analysis, image</meta key>
+</head>
+[[pages/index.sqml]]
+
+{{pages/Internet.jpg}}
+
+Speed Internet and its price in the world.
+
+And also cool on the [[pages/pageUna.sqml|Bratyuni]] of [[pages/pagePeta.sqml|petabytes]].
+</sqml>

@@ -1,0 +1,18 @@
+<sqml>
+<head>
+<title>Apple</title>
+<meta annotation>Apple - an American corporation, led the most successful manager of Planet Earth - Steve Jobs.</meta annotation>
+<meta key>apple, Corporation, Steve Jobs, Steve, Bill, gates, images, business</meta key>
+</head>
+{{pages/Steve Time.jpg}}
+
+Apple - an American corporation, led the most successful manager of Planet Earth - Steve Jobs.
+
+Steve with another genius of the planet [[pages/pageBill.sqml|Bill Gates]].
+
+{{pages/mac table.jpg}}
+
+Apple iPad.
+
+[[pages/pageObama.sqml]]
+</sqml>

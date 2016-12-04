@@ -1,0 +1,12 @@
+<sqml>
+<head>
+<title>Bill Gates</title>
+<meta annotation>Bill Gate - one of the most successful and richest people on the planet, along with Steve Jobs.</meta annotation>
+<meta key>Bill, Gates, Bill Gates, pictures, steve, Steve Jobs, business</meta key>
+</head>
+{{pages/Steve_Jobs_and_Bill_Gates.jpg}}
+
+Bill Gate - one of the most successful and richest people on the planet, along with Steve Jobs.
+
+[[pages/pageApple.sqml]]
+</sqml>

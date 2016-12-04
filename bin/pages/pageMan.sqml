@@ -1,0 +1,10 @@
+<sqml>
+<head>
+<title>Successful people</title>
+<meta annotation>Links to articles about successful people.</meta annotation>
+<meta key>people, successful people, links</meta key>
+</head>
+[[pages/pageObama.sqml]]
+
+[[pages/index.sqml]]
+</sqml>

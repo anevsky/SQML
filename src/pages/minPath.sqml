@@ -1,0 +1,13 @@
+<sqml><head><title>The shortest path between two pages</title><meta key=></meta></head>{{pages/SQLogo.png}} $$nl$$ $$nl$$%%{size:15}Pages (edit file: minPath.txt)%% $$nl$$pages/pageXana.sqml
+pages/pageBill.sqml
+
+%%{size:15}Shortest path:%% $$nl$$pages/pageXana.sqml
+pages/index.sqml
+pages/pageMan.sqml
+pages/pageObama.sqml
+pages/pageApple.sqml
+pages/pageBill.sqml
+
+%%{size:15}The distance between the pages:%% $$nl$$5
+
+</sqml>

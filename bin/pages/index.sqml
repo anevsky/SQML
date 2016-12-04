@@ -1,0 +1,65 @@
+<sqml>
+<head>
+<title>Welcome to the SQML world!</title>
+<meta annotation>SQWADRIX home page</meta annotation>
+<meta key>home, home page, title, page, sqml, sqwadrix, welcome, image</meta key>
+</head>
+[[pages/pageXana.sqml|Hana Soukupova]]  [[pages/pageVictory.sqml|Victory]]  [[pages/pageUna.sqml|Bratyunya]]  [[pages/pageInternet.sqml|Internet]]  [[pages/pageDa4a.sqml|Going to the country such]]  [[pages/pageAshley.sqml|Ashley Greene]]  [[pages/pageGoogle.sqml|The story of Google]]  [[pages/pageMan.sqml|Successful people]]
+
+%%{size:18}Syntax SQML v.0.1%%
+
+%%{size:16}Text Formatting%%
+
+<m>**bold**</m>
+Select text **bold**
+
+<m>//italic//</m>
+Select text //italic//
+
+<m>__underlined__</m>
+__Underlined__ text
+
+<m>!!strikethrough!!</m>
+!!Strikethrough!! text
+
+<m>%%{color:red}red color%%</m>
+Select %%{color:red}red color%% text
+
+<m>%%{size:15}text size%%</m>
+Select %%{size:15}size%% text
+
+<m>{{BlutsbruderDesign02.jpg}}</m>
+
+{{pages/BlutsbruderDesign02.jpg}}
+
+<m>[[index.sqml]]</m>
+[[pages/index.sqml]]
+
+<m>[[page2.sqml]]</m>
+[[pages/page2.sqml]]
+
+<m>[[page2.sqml|link to page2]]</m>
+[[pages/page2.sqml|link to page2]]
+
+%%{color:darkRed}hello! good bye!%%
+
+%%{size:15}Alignment and indentation%%
+
+<m>$$p{left}on the left side$$</m>
+$$p{left}Align left$$
+
+<m>$$p{right}on the right side$$</m>
+$$p{right}Align right$$
+
+<m>$$p{center}center$$</m>
+$$p{center}Align center$$
+
+<m>$$p{width}width$$</m>
+$$p{width}Align width$$
+
+<m>$$nl$$</m>
+$$nl$$To a new line
+
+<m>$$ind$$</m>	
+$$ind$$Indented from the left side
+</sqml>

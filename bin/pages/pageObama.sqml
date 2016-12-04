@@ -1,0 +1,16 @@
+<sqml>
+<head>
+<title>Barack Obama</title>
+<meta annotation>Barack Obama - U.S. President.</meta annotation>
+<meta key>Barack Obama, Barack, Obama, politics, apple, President, Image</meta key>
+</head>
+{{pages/Obama Apple.jpg}}
+
+Barack Obama - President of the United States. Uses products [[pages/pageApple.sqml|Apple]].
+
+Former Russian President [[pages/pagePytin.sqml|Putin]].
+
+Former U.S. President [[pages/pageBush.sqml|Bush]].
+
+[[pages/pageMan.sqml]]
+</sqml>

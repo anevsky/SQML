@@ -1,0 +1,14 @@
+<sqml>
+<head>
+<title>Girls</title>
+<meta annotation>Links to pages with the girls.</meta annotation>
+<meta key>girls, girl</meta key>
+</head>
+[[pages/pageAshley.sqml]]
+
+[[pages/pageXana.sqml]]
+
+[[pages/pageKatie.sqml]]
+
+Links to pages with the girls.
+</sqml>

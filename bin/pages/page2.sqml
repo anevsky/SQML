@@ -1,0 +1,22 @@
+<sqml>
+<head>
+<title>Page 2</title>
+<meta annotation>Page example, decorated with SQML and images.</meta annotation>
+<meta key>sqml, page, example, sample, design, image, apple, steve, jobs</meta key>
+</head>
+hello index
+
+This is second page!!!!!!!!!!!!!!!!1111111111111
+
+**bold**
+//italic//
+__underlined__
+!!strikethrough!!
+
+[[pages/index.sqml]] - index.sqml
+[[pages/page2.sqml|to second page]] - link's text
+
+{{pages/iPhome Stive Fuck Yea.png}}
+
+%%{color:darkRed}hello! good bye!%%
+</sqml>
