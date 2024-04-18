@@ -1,5 +1,5 @@
 # SQML
-SQWADRIX - Semantic Network Searcher Engine
+SQWADRIX - Semantic Network Search Engine
 
 ![alt Semantic Search Engine](images/SQWADRIX%20-%201.png "Semantic Search Engine")
 ![alt Semantic Search Engine](images/SQWADRIX%20-%202.png "Semantic Search Engine")
