@@ -1,6 +1,10 @@
 # SQML
 SQWADRIX - Simple Page Viewer and Searcher
 
+![alt Semantic Search Engine](images/SQWADRIX%20-%201.png "Semantic Search Engine")
+![alt Semantic Search Engine](images/SQWADRIX%20-%202.png "Semantic Search Engine")
+![alt Semantic Search Engine](images/SQWADRIX%20-%203.png "Semantic Search Engine")
+
 *************************************************************************
     SQWADRIX - Simple Page Viewer and Searcher
     Copyright (C) 2010 Alex Nevsky, http://www.alexnevsky.com
